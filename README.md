@@ -5,13 +5,13 @@
 
 
 
-<p align="left"> <a href="https://x.com/gabhinav_001" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/gabhinav_001?logo=twitter&style=for-the-badge" alt="https://x.com/gabhinav_001" /></a> </p>
+<p align="left"> <a href="https://x.com/gabhinav_001" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gabhinav_001?logo=twitter&style=for-the-badge" alt="https://x.com/gabhinav_001" /></a> </p>
 
 - 🔭 I’m currently working on [RasoiRoute.ai](linkToProject)
 
 - 🌱 I’m currently learning • **Cloud deployment & infrastructure** via **AWS**, **Firebase**, and **Vercel** <br> • Integrating **tensorflow**, **langchain** and other **open-source LLM**s <br> • Firebase and Superbase integrations <br> • DevOps • Springboot • .Net
 
-- 👯 I’m looking to collaborate on open source projects [especially agentic AI's and such. Like Void_editor or Roo Cline](https://github.com/voideditor/void)
+- 💻 I’m looking to collaborate on open source projects [especially agentic AI's and such. Like Void_editor or Roo Cline](https://github.com/voideditor/void)
 
 - 🤝 I’m looking for help with [RasoiRoute.ai](linkToProject)
 
