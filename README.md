@@ -68,7 +68,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-abhinav01" alt="g-abhinav01" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-abhinav01&show_icons=true&locale=en&layout=compact" alt="g-abhinav01" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-Abhinav01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-abhinav01&show_icons=true&locale=en" alt="g-abhinav01" /></p>
 
