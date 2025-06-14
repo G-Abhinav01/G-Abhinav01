@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/gabhinav_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/gabhinav_001" height="30" width="40" /></a>
+<a href="https://x.com/gabhinav_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/gabhinav_001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/g-abhinav-138a39252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/g-abhinav-138a39252/" height="30" width="40" /></a>
 <a href="https://instagram.com/achiver_abhinav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achiver_abhinav" height="30" width="40" /></a>
 </p>
