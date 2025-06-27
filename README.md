@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/gabhinav_001?logo=twitter&style=for-the-badge" alt="gabhinav_001" />
   </a>
 </p>
-- 🔭 I’m currently working on [RasoiRoute.ai](linkToProject)
+- 🔭 I’m currently working on [O-Siyar.ai](linkToProject)
 
 - 🌱 I’m currently learning • **Cloud deployment & infrastructure** via **AWS**, **Firebase**, and **Vercel** <br> • Integrating **tensorflow**, **langchain** and other **open-source LLM**s <br> • Firebase and Superbase integrations <br> • DevOps • Springboot • .Net
 
