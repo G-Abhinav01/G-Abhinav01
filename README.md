@@ -3,7 +3,7 @@
 
 </p>
 
-8
+
   <a href="https://x.com/gabhinav_001" target="_blank">
     <img src="https://img.shields.io/twitter/follow/gabhinav_001?logo=twitter&style=for-the-badge" alt="gabhinav_001" />
   </a>
