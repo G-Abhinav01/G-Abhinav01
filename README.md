@@ -14,7 +14,7 @@
 
 - 💻 I’m looking to collaborate on open source projects [especially agentic AI's and such. Like Void_editor or Roo Cline](https://github.com/voideditor/void)
 
-- 🤝 I’m looking for help with [RasoiRoute.ai](linkToProject)
+- 🤝 I’m looking for help with [YumCha.ai](linkToProject)
 
 - 👨‍💻 All of my projects are available at [link_to_portfolio_willUpdateSoon](link_to_portfolio_willUpdateSoon)
 
