@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [link_to_portfolio_willUpdateSoon](link_to_portfolio_willUpdateSoon)
 
-- 💬 Ask me about **Flutter • React • Python • C++ • AI/ML integrations •Automation of Workflows • Web Dev • Backend**
+- 💬 Ask me about **Flutter • Java • Python • C++ • AI/ML integrations •Automation of Workflows • Web Dev • Backend • RAG • Agentic AI • Cloud • Docker • CI/CD**
 
 - 📫 How to reach me **abhinav.achiver01@gmail.com**
 
